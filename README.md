@@ -2,7 +2,7 @@
 
 This repository contains the minimal code needed to reproduce the PRInter/iLncPNet-style lncRNA-protein interaction prediction workflow.
 
-It keeps only the essential training and data-processing code. Experimental result tables, reviewer-specific analyses, baseline adaptations, caches, model weights, and datasets are intentionally excluded.
+
 
 ## What Is Included
 
